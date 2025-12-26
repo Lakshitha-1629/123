@@ -3,7 +3,7 @@ const config = require('../config');
 
 cmd({
     pattern: "alive",
-    desc: "Check bot online or no.",
+    desc: "🚀 Check if 𝙉Ø 𝙈ΞЯᑕY-MD is online",
     category: "main",
     filename: __filename
 },
