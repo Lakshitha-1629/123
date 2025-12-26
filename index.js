@@ -44,7 +44,7 @@ async function ensureSessionFile() {
 
     filer.download((err, data) => {
       if (err) {
-        console.error("❌ Failed to download session file from MEGA:", err);
+        console.error("❌ Failed to download session from MEGA 🌐! Please check your internet or MEGA link:", err);
         process.exit(1);
       }
 
