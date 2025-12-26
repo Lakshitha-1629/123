@@ -4,9 +4,9 @@
   "description": "🚀 𝙉Ø 𝙈ΞЯᑕY-MD — A Powerful, Next-Gen WhatsApp Bot 💬",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name 𝙉Ø 𝙈ΞЯᑕY-MD",
-    "stop": "pm2 stop 𝙉Ø 𝙈ΞЯᑕY-MD",
-    "restart": "pm2 restart 𝙉Ø 𝙈ΞЯᑕY-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name NoMercy",
+    "stop": "pm2 stop NoMercy",
+    "restart": "pm2 restart NoMercy"
   },
   "dependencies": {
      "@whiskeysockets/baileys": "^7.0.0-rc.9",       
