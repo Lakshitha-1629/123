@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lakshitha-1629/123/main/images/NoMercy-MD.jpg" width="280"/>
+  <img src="[https://raw.githubusercontent.com/Lakshitha-1629/123/main/images/NoMercy-MD.jpg](https://github.com/Lakshitha-1629/123/blob/main/images/NoMercy-MD%20menu%20and%20deploy.jpg?raw=true)" width="280"/>
 </p>
 
 <h1 align="center">𝙉Ø 𝙈ΞЯᑕY-MD</h1>
