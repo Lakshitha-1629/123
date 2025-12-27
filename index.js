@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `🚀 𝙉Ø 𝙈ΞЯᑕY-MD is now ONLINE ✅⚡\n\nPREFIX: ${prefix}`;
       await NoMercy.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/Lakshitha-1629/123/blob/main/images/NoMercy-MD.jpg?raw=true` },
+        image: { url: `https://github.com/Lakshitha-1629/123/blob/main/images/NoMercy-MD%20menu%20and%20deploy.jpg?raw=true` },
         caption: up
       });
 
