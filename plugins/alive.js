@@ -3,6 +3,7 @@ const config = require('../config');
 
 cmd({
     pattern: "alive",
+    react: "🧠",
     desc: "🚀 Check if 𝙉Ø 𝙈ΞЯᑕY-MD is online",
     category: "main",
     filename: __filename
