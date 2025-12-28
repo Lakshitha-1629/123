@@ -1,182 +1,91 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>💀 NØ MΞЯCY 💀 | README</title>
+<div align="center">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800&family=Fira+Code&display=swap" rel="stylesheet">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,50:0099ff,100:00ff88&height=220&section=header&text=NØ%20MΞЯCY%20MD&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=65&descSize=25" width="100%" style="border-radius: 18px;"/>
 
-  <!-- AOS Animations -->
-  <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<br><br>
 
-  <style>
-    :root {
-      --bg: #050505;
-      --card: #0d0d0d;
-      --neon: #ff004c;
-      --cyan: #00ffd5;
-      --text: #eaeaea;
-    }
+<a href="https://github.com/Lakshitha-1629">
+  <img src="https://github.com/Lakshitha-1629/123/blob/main/images/NoMercy-MD%20menu%20and%20deploy.jpg?raw=true"
+       alt="NoMercy MD Banner"
+       width="95%"
+       style="border-radius: 22px;
+              border: 4px solid #00ffcc;
+              box-shadow: 0 0 45px rgba(0,255,204,0.7);">
+</a>
 
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<br><br>
 
-    body {
-      font-family: 'Fira Code', monospace;
-      background: radial-gradient(circle at top, #0a0a0a, #000);
-      color: var(--text);
-      line-height: 1.6;
-    }
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=00FFCC,00A2FF,00FF88&center=true&vCenter=true&width=900&height=70&lines=⚡+ULTRA+FAST+PERFORMANCE;💀+NØ+MΞЯCY+EDITION;🛡️+SECURE+%26+STABLE;✨+NEXT-GEN+WHATSAPP+BOT&gradient=true" />
+</a>
 
-    header {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-    }
+<br>
 
-    header h1 {
-      font-family: 'Orbitron', sans-serif;
-      font-size: 3.2rem;
-      letter-spacing: 3px;
-      color: var(--neon);
-      text-shadow: 0 0 25px var(--neon);
-      animation: glow 2s infinite alternate;
-    }
+<p align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Version-V1.0.0-00ffcc?style=for-the-badge&logo=github&logoColor=white&labelColor=003333">
+  <img src="https://img.shields.io/badge/Creator-Lakshitha-0099ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=001f3f">
+  <img src="https://img.shields.io/badge/Node.js-20+-00ff88?style=for-the-badge&logo=node.js&logoColor=white&labelColor=003322">
+  <img src="https://img.shields.io/badge/Status-ACTIVE-00A2FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=001f3f">
+</p>
 
-    header p {
-      margin-top: 1rem;
-      color: var(--cyan);
-      font-size: 1.1rem;
-    }
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Lakshitha-1629/123?style=for-the-badge&color=00ffcc&labelColor=000000">
+  <img src="https://img.shields.io/github/forks/Lakshitha-1629/123?style=for-the-badge&color=00a2ff&labelColor=000000">
+  <img src="https://img.shields.io/github/issues/Lakshitha-1629/123?style=for-the-badge&color=00ff88&labelColor=000000">
+</p>
 
-    @keyframes glow {
-      from { text-shadow: 0 0 10px var(--neon); }
-      to   { text-shadow: 0 0 35px var(--neon); }
-    }
+<hr style="border-color: #00ffcc; margin: 35px 0; width: 80%; opacity: 0.6;">
 
-    section {
-      max-width: 1000px;
-      margin: auto;
-      padding: 4rem 1.5rem;
-    }
+<div align="center">
+  <h3 style="color:#00ffcc;">🍴 Fork The Repository</h3>
+  <a href="https://github.com/Lakshitha-1629/123/fork">
+    <img src="https://img.shields.io/badge/FORK%20REPO-NOW-00ffcc?style=for-the-badge&logo=github&logoColor=black">
+  </a>
 
-    .card {
-      background: var(--card);
-      border-radius: 18px;
-      padding: 2rem;
-      margin-bottom: 2rem;
-      box-shadow: 0 0 30px rgba(255,0,76,0.15);
-    }
+  <br><br>
 
-    .card h2 {
-      font-family: 'Orbitron', sans-serif;
-      color: var(--cyan);
-      margin-bottom: 1rem;
-    }
+  <h3 style="color:#00a2ff;">🔑 Get Session ID</h3>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20SESSION-CLICK%20HERE-001f3f?style=for-the-badge&logo=whatsapp&logoColor=00ffcc">
+  </a>
+</div>
 
-    ul {
-      margin-left: 1.2rem;
-    }
+<hr style="border-color: #00a2ff; margin: 35px 0; width: 80%; opacity: 0.6;">
 
-    ul li {
-      margin-bottom: .5rem;
-    }
+<h2 align="center" style="color:#00ffcc;">⚡ Premium Features ⚡</h2>
 
-    code {
-      display: block;
-      background: #000;
-      border-left: 4px solid var(--neon);
-      padding: 1rem;
-      border-radius: 10px;
-      margin-top: 1rem;
-      white-space: pre-wrap;
-      font-size: 0.9rem;
-    }
+<table align="center" width="90%">
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/64/speed.png"><br>
+<b>Ultra Fast</b><br>
+<font size="2">Lightning speed replies</font>
+</td>
 
-    footer {
-      text-align: center;
-      padding: 2rem;
-      background: #000;
-      color: #777;
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
-<body>
+<td align="center">
+<img src="https://img.icons8.com/color/64/security-checked.png"><br>
+<b>Secure</b><br>
+<font size="2">Stable & protected</font>
+</td>
 
-<header>
-  <div data-aos="zoom-in">
-    <h1>💀 NØ MΞЯCY 💀</h1>
-    <p>Next-Generation WhatsApp MD Bot<br>Asitha-MD V6 Inspired</p>
-  </div>
-</header>
+<td align="center">
+<img src="https://img.icons8.com/color/64/artificial-intelligence.png"><br>
+<b>Smart</b><br>
+<font size="2">Next-gen automation</font>
+</td>
+</tr>
+</table>
 
-<section>
-  <div class="card" data-aos="fade-up">
-    <h2>🚀 About</h2>
-    <p>
-      <b>NØ MΞЯCY</b> is a next-generation WhatsApp Multi-Device bot built for speed,
-      power and stability. Inspired by the legendary Asitha-MD V6 style, this bot
-      delivers clean structure, smart automation and full control —
-      <b>no limits, no mercy.</b>
-    </p>
-  </div>
+<br><br>
 
-  <div class="card" data-aos="fade-right">
-    <h2>✨ Features</h2>
-    <ul>
-      <li>⚡ Ultra-Fast Command Handler</li>
-      <li>👥 Advanced Group Management</li>
-      <li>🖼️ Media Tools & Downloaders</li>
-      <li>🧩 Plugin-Based System</li>
-      <li>🔐 Owner & Admin Controls</li>
-      <li>♻ Auto Restart & Error Handler</li>
-    </ul>
-  </div>
+<h2 align="center" style="color:#00a2ff;">🔥 Deploy Now 🔥</h2>
 
-  <div class="card" data-aos="fade-left">
-    <h2>🛠 Installation</h2>
-    <code>
-pkg update && pkg upgrade
-pkg install git nodejs ffmpeg -y
+<div align="center">
+  <img src="https://img.shields.io/badge/DEPLOY-SOON-00ffcc?style=for-the-badge">
+</div>
 
-git clone https://github.com/YourUsername/NoMercy-MD
-cd NoMercy-MD
-npm install
-node .
-    </code>
-  </div>
+<br><br>
 
-  <div class="card" data-aos="fade-up">
-    <h2>⚙ Configuration</h2>
-    <code>
-OWNER_NUMBER=94XXXXXXXXX
-BOT_NAME=💀 NØ MΞЯCY 💀
-MODE=public
-SESSION_ID=YOUR_SESSION_ID
-    </code>
-  </div>
-</section>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00a2ff,100:00ffcc&height=120&section=footer&text=Thank%20You!&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=©%202025%20NØ%20MΞЯCY%20MD%20|%20Lakshitha&descAlignY=90&descSize=15" width="100%" style="border-radius: 18px;"/>
 
-<footer>
-  ⚡ NØ MΞЯCY — Power Without Mercy ⚡
-</footer>
-
-<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init({
-    once: true,
-    duration: 1200
-  });
-</script>
-
-</body>
-</html>
+</div>
